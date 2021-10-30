@@ -1,6 +1,7 @@
 {
   "main": "index.js",
   "version": "0.0.1",
+  "name": "teste1",
   "scripts": {
     "android": "expo run:android",
     "ios": "expo run:ios",
